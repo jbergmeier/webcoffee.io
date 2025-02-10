@@ -1,4 +1,4 @@
-import logo from './bergmeier-white.svg';
+import logo from './B_image_white.png';
 import './App.css';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
             & amazing for you!<br />
           </p>
           <p className="text">
-            <a href="mailto:hello@bergmeier.solutions?subject=Hello%20Web" className="email">hello@bergmeier.solutions</a>
+            <a href="mailto:hello@webcoffee.io?subject=Hello%20Web" className="email">hello@webcoffee.io</a>
           </p>
 
       </header>
